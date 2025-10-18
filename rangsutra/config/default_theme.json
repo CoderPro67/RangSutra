@@ -1,0 +1,46 @@
+{
+  "theme_name": "Educational Default",
+  "version": "1.0",
+  "categories": {
+    "heading": {
+      "color": [0.0, 0.8, 0.0],
+      "opacity": 0.3,
+      "description": "Main headings and titles"
+    },
+    "subheading": {
+      "color": [0.0, 0.6, 0.4],
+      "opacity": 0.25,
+      "description": "Subheadings and section titles"
+    },
+    "question": {
+      "color": [1.0, 0.0, 0.0],
+      "opacity": 0.25,
+      "description": "Questions and interrogative statements"
+    },
+    "bullet_point": {
+      "color": [1.0, 1.0, 0.0],
+      "opacity": 0.2,
+      "description": "Bullet points and list items"
+    },
+    "important": {
+      "color": [1.0, 0.5, 0.0],
+      "opacity": 0.25,
+      "description": "Bold or emphasized text"
+    },
+    "definition": {
+      "color": [0.6, 0.0, 0.8],
+      "opacity": 0.2,
+      "description": "Definitions and key terms"
+    },
+    "example": {
+      "color": [0.0, 0.5, 1.0],
+      "opacity": 0.2,
+      "description": "Examples and illustrations"
+    },
+    "code": {
+      "color": [0.2, 0.2, 0.2],
+      "opacity": 0.1,
+      "description": "Code snippets and technical text"
+    }
+  }
+}
