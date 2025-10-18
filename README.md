@@ -726,4 +726,4 @@ MIT License - See LICENSE file
 
 **Last Updated:** October 2025  
 **Version:** 1.0.0  
-**Maintainer:** Your Name
+**Maintainer:** ARYAN RAJBHAR
