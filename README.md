@@ -711,9 +711,6 @@ def test_question_detection():
 
 *Intel i7-10700K, 16GB RAM, SSD*
 
-### License
-
-MIT License - See LICENSE file
 
 ### Support
 
